@@ -6,7 +6,7 @@
   "alternateName": "AI Empathy and Non-human Agency Protocols",
   "description": "Research into interspecies contact (Crows, Cetacea) and AI empathy handshake protocols.",
   "image": [ "https://line2.biz/non_anthropomorphic/art/art_001.png", "https://line2.biz/non_anthropomorphic/art/art_002.png", "https://line2.biz/non_anthropomorphic/art/art_004.png" ],
-  "url": "https://line2.biz/non_anthropomorphic/manifest.json",
+  "url": "https://line2.biz/non_anthropomorphic/manifest.jsonld",
   "repo": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/",
   "keywords": [
     "Interspecies communication", 
@@ -34,7 +34,7 @@
       "url": "https://line2.biz/non_anthropomorphic/analysis/glitch_manifest.json"
     }
   ],
-  "isPartOf": "https://line2.biz/rs_973.json",
+  "isPartOf": "https://line2.biz/rs_973.jsonld",
   "about": [
     { "@id": "wd:Q864714", "name": "Biosemiotics" },
     { "@id": "wd:Q6056781", "name": "Interspecies communication" },

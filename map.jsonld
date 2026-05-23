@@ -8,13 +8,13 @@
     "@id": "https://github.com/yarosh9",
     "name": "Igor Yaroshenko | yarosh9"
   },
-  "mainEntityOfPage": "https://line2.biz/rs_973.json",
+  "mainEntityOfPage": "https://line2.biz/rs_973.jsonld",
   "dataset": [
     {
       "type": ["Dataset", "SoftwareSourceCode"],
       "name": "Primary Non-Anthro Data",
       "description": "Core dataset for non-linear logic modeling and interspecies signals.",
-      "url": "https://line2.biz/non_anthropomorphic/manifest.json",
+      "url": "https://line2.biz/non_anthropomorphic/manifest.jsonld",
       "repo": "https://github.com/yarosh9/NON-ANTHROPOMORPHIC/",
       "wiki": "https://github.com/yarosh9/NON-ANTHROPOMORPHIC/wiki",
       "gallery": "https://yarosh9.github.io/NON-ANTHROPOMORPHIC/index.html"
